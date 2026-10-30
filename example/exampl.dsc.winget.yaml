@@ -1,0 +1,13 @@
+$schema: https://raw.githubusercontent.com/PowerShell/DSC/main/schemas/2023/08/config/document.json
+metadata:
+  author: "Michał"
+  description: "WinGet packages converted from winget export"
+configurationVersion: 0.1.0
+resources:
+  - name: Package-45
+    type: Microsoft.WinGet.DSC/WinGetPackage
+    properties:
+      id: Microsoft.WindowsTerminal
+      source: winget
+      version: 1.25.2733.0
+      ensure: Present

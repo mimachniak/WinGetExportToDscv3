@@ -1,0 +1,224 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2026-10-30T21:53:14.625-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "ByteDance.CapCut",
+					"Version" : "3.7.0.1379"
+				},
+				{
+					"PackageIdentifier" : "Git.Git",
+					"Version" : "2.56.0.4"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive",
+					"Version" : "26.195.1006.0007"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "4.0.302.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AzureCLI",
+					"Version" : "2.91.0"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX",
+					"Version" : "9.26.0703"
+				},
+				{
+					"PackageIdentifier" : "Blizzard.BattleNet",
+					"Version" : "Unknown"
+				},
+				{
+					"PackageIdentifier" : "DominikReichl.KeePass",
+					"Version" : "2.61.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge",
+					"Version" : "156.0.4314.50"
+				},
+				{
+					"PackageIdentifier" : "RockstarGames.Launcher",
+					"Version" : "1.0.109.3031"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam",
+					"Version" : "2.10.91.91"
+				},
+				{
+					"PackageIdentifier" : "Ubisoft.Connect",
+					"Version" : "175.0.0.13393"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.33"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
+					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
+					"Version" : "14.51.36247.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell",
+					"Version" : "7.6.9.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.10",
+					"Version" : "10.0.403"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.9",
+					"Version" : "9.0.320"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.3_1",
+					"Version" : "3.1.32"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
+					"Version" : "14.51.36247.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
+					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64",
+					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord",
+					"Version" : "1.0.9266"
+				},
+				{
+					"PackageIdentifier" : "GitHub.Copilot",
+					"Version" : "v1.0.71"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Bicep",
+					"Version" : "0.48.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode",
+					"Version" : "1.144.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams",
+					"Version" : "26276.513.5241.9675"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller",
+					"Version" : "1.29.380.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DirectX",
+					"Version" : "9.29.1974.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.IntelligentTerminal",
+					"Version" : "0.2.2572.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.365Copilot",
+					"Version" : "19.2610.35011.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
+					"Version" : "2.2.28604.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Outlook",
+					"Version" : "1.2026.1020.100"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8",
+					"Version" : "8.2511.26001.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14",
+					"Version" : "14.0.33728.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.14",
+					"Version" : "14.0.33519.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.1",
+					"Version" : "1.1.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.2",
+					"Version" : "1.2.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.4",
+					"Version" : "1.4.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.5",
+					"Version" : "1.5.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.6",
+					"Version" : "1.6.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.7",
+					"Version" : "1.7.9"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
+					"Version" : "> 1.8.10"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2",
+					"Version" : "2.6.4.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview",
+					"Version" : "1.26.2734.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.25.2733.0"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
+					"Version" : "31.9.1.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "9PCX3HX4HZ0Z",
+					"Version" : "3.4.1.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.29.380"
+}

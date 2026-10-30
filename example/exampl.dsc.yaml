@@ -1,0 +1,12 @@
+$schema: https://aka.ms/dsc/schemas/v3/bundled/config/document.json
+metadata:
+  author: "Michał"
+  description: "WinGet packages converted from winget export"
+contentVersion: "0..0"
+resources:
+  - name: Package-45
+    type: Microsoft.WinGet/Package
+    properties:
+      id: Microsoft.WindowsTerminal
+      source: winget
+      version: 1.25.2733.0
