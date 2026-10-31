@@ -6,10 +6,23 @@ packages or run DSC, and it does not require a YAML module.
 
 The module supports Windows PowerShell 5.1 and PowerShell 7 (Core).
 
-## Import the module
+![PowerShell Gallery](https://img.shields.io/powershellgallery/v/WinGetExportToDsc.svg)
+![Downloads](https://img.shields.io/powershellgallery/dt/WinGetExportToDsc)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/platform-PowerShell%207%2B-lightgrey)
+
+
+## Import or install the module
 
 ```powershell
+
+# Import module 
 Import-Module .\WinGetExportToDsc\WinGetExportToDsc.psd1
+
+# Install module
+
+Install-Module -Name WinGetExportToDsc
+
 ```
 
 Convert an export to a DSC v3 configuration:
