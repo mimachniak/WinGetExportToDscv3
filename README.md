@@ -1,5 +1,7 @@
 # WinGetExportToDsc
 
+![DSC document](./image/winget-to-dsc.jpg)
+
 PowerShell module for converting a JSON file produced by `winget export` into
 a DSC v3 or WinGet DSC YAML configuration. The conversion does not install
 packages or run DSC, and it does not require a YAML module.
