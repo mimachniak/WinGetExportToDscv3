@@ -100,13 +100,22 @@ The compatibility script can also be used directly:
     -Schema DSCv3 `
     -ContentVersion '0.1.0' `
     -Force
+```
 
+![DSC document](./image/dsc-v3-output.png)
+
+---
+
+
+```powershell
 .\Convert-WinGetExportToDsc.ps1 `
     -InputPath .\example-output.json `
     -OutputPath .\packages.winget.yaml `
     -Schema WinGet `
     -ConfigurationVersion '0.1.0'
 ```
+
+![DSC document](./image/winget-dsc-output.png)
 
 ## Test and apply a configuration
 
